@@ -1,0 +1,29 @@
+{
+  "name": "ashish-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website - Data Science & Python Developer with modern dark theme",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html",
+    "dev": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "data-science",
+    "python",
+    "machine-learning",
+    "dark-theme",
+    "responsive"
+  ],
+  "author": {
+    "name": "Ashish PJ",
+    "email": "ashishpaikera83@gmail.com",
+    "url": "https://www.linkedin.com/in/ashish-paikera-44288a2a0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashish-paikera/ashish-portfolio.git"
+  },
+  "homepage": "https://github.com/ashish-paikera/ashish-portfolio#readme"
+}
